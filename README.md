@@ -6,3 +6,9 @@ Our semester long project for CS 521- Statistical NLP. In this project, we aim t
 1. data/ Datasets used for training & validation
 
 2. notebooks/ Collaborative notebooks.
+
+# Data Sources used: 
+
+* https://nijianmo.github.io/amazon/index.html
+
+* [Optional] https://www.kaggle.com/bittlingmayer/amazonreviews
