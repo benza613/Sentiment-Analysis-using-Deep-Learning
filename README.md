@@ -12,3 +12,11 @@ Our semester long project for CS 521- Statistical NLP. In this project, we aim t
 * https://nijianmo.github.io/amazon/index.html
 
 * [Optional] https://www.kaggle.com/bittlingmayer/amazonreviews
+
+# Dataset:
+
+
+| Tpe of review data  | Small                                     | Medium                                | Large      |
+| ------------------- | ----------------------------------------- | ------------------------------------- | ---------- |
+| Electronics         | Path:Data_Balanced_2000_Apr-03-2020_06-46 | Data_Balanced_20000_Apr-03-2020_06-52 | Data_Balanced_100000_Apr-04-2020_06-54
+| All Beauty          | Path:Data_Balanced_2000_Apr-19-2020_22-40 | Data_Balanced_20000_Apr-19-2020_22-50 | Data_Balanced_100000_Apr-19-2020_22-33
