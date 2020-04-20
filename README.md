@@ -15,8 +15,23 @@ Our semester long project for CS 521- Statistical NLP. In this project, we aim t
 
 # Dataset:
 
+| Dataset  | Train Size      | Test Size | 
+| -------- | --------------- | --------- | 
+| Small    | 8000            | 800                    
+| Medium   | 80000           | 8000             
+| Large    | 400000          | 40000
 
-| Tpe of review data  | Small                                     | Medium                                | Large      |
+
+| Type of review data | Small                                     | Medium                                | Large      |
 | ------------------- | ----------------------------------------- | ------------------------------------- | ---------- |
 | Electronics         | Path:Data_Balanced_2000_Apr-03-2020_06-46 | Data_Balanced_20000_Apr-03-2020_06-52 | Data_Balanced_100000_Apr-04-2020_06-54
 | All Beauty          | Path:Data_Balanced_2000_Apr-19-2020_22-40 | Data_Balanced_20000_Apr-19-2020_22-50 | Data_Balanced_100000_Apr-19-2020_22-33
+
+# Classifiers:
+
+| Name of Classifier  | Details         | 
+| ------------------- | ------------------| 
+| Baseline            |       
+| LSTM                |  | 
+| Bi-LSTM             | |
+| CNN                 |   
